@@ -1,0 +1,2 @@
+# random-cat-image
+The Random Cat Generator is a delightful and entertaining digital tool designed to bring joy and smiles to cat lovers and enthusiasts. It provides a quick and enjoyable way to discover and view random cat images, offering a dose of feline cuteness whenever you need it. Whether you're a cat person seeking daily doses of adorable cats or just looking to brighten your day, this generator is your go-to source for cat-themed happiness.
